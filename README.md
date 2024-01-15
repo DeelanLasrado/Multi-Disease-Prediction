@@ -9,4 +9,4 @@ You may need to install additional libraries for running the jupyter notebooks.
 
 
 to run the app use  -   
-streamlit run "C:\Users\deela\Downloads\multiple-disease-prediction-streamlit-app-main\multiple-disease-prediction-streamlit-app-main\app.py"
+streamlit run "location of file"
